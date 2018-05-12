@@ -3,7 +3,8 @@
 <div>
   <ul>
     <li>C#</li>
-<li>Javascript</li>
+<li>Javascript</li><li>Angular</li
+    
 <li>Android</li>
 <li>Java</li>
 <li>XML</li>
